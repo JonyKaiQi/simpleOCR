@@ -57,7 +57,6 @@ def opt_value(result, sort):
 if __name__ == '__main__':
 
     # XSZ = '231_vehicle_face.png'  # 行驶证识别
-    #
     # 测试获取AccessToken
     testAccessToken = AccessToken()
     # # print('Access_token:', testAccessToken.getToken())
